@@ -1,3 +1,5 @@
+print("Build process started...") # Added for debugging Render builds
+
 import os
 import requests
 import psycopg2
