@@ -1,4 +1,6 @@
-requests
-psycopg2-binary
-pybaseball
 pandas
+sqlalchemy
+psycopg2-binary
+scikit-learn
+xgboost
+python-dotenv
